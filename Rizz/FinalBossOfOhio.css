@@ -83,3 +83,53 @@ li .delete-button {
 #add-button:hover {
     background-color: #45a049; /* Change color on hover */
 }
+
+#add-user-button {
+    background-color: rgb(65, 65, 218);
+    color: rgb(255, 255, 255);
+    border: none;
+    border-radius: 8px;
+    padding: 6px 14px;
+    cursor: pointer;
+    font-weight: arial;
+}
+
+#archive-button {
+    background-color: rgb(65, 65, 218);
+    color: rgb(255, 255, 255);
+    border: none;
+    border-radius: 8px;
+    padding: 6px 14px;
+    cursor: pointer;
+    font-weight: arial;
+}
+
+#create-list-button {
+    background-color: rgb(65, 65, 218);
+    color: rgb(255, 255, 255);
+    border: none;
+    border-radius: 8px;
+    padding: 6px 14px;
+    cursor: pointer;
+    font-weight: arial;
+}
+
+#delete-list-button {
+    background-color: rgb(65, 65, 218);
+    color: rgb(255, 255, 255);
+    border: none;
+    border-radius: 8px;
+    padding: 6px 14px;
+    cursor: pointer;
+    font-weight: arial;
+}
+
+#complete-button {
+    background-color: rgb(65, 65, 218);
+    color: rgb(255, 255, 255);
+    border: none;
+    border-radius: 8px;
+    padding: 6px 14px;
+    cursor: pointer;
+    font-weight: arial;
+}
